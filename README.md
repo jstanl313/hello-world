@@ -1,6 +1,6 @@
 # hello-world
-import java.util.*;
-import java.io.*;
+import java.util.\*;
+import java.io.\*;
 
 public class Hello_World
 {
